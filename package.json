@@ -1,0 +1,32 @@
+{
+  "name": "bizdesk-porject",
+  "version": "1.0.0",
+  "description": "BizDesk is a full-stack multi-tenant SaaS platform that enables service-based businesses to manage bookings, staff, services, customers, and subscriptions from a centralized dashboard.  Built using React, Node.js, Express, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harry007056/BizDesk-porject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Harry007056/BizDesk-porject/issues"
+  },
+  "homepage": "https://github.com/Harry007056/BizDesk-porject#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
